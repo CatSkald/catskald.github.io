@@ -2,8 +2,4 @@
 
 
 ### My Projects
-
-- [Roguelike Game](https://catskald.github.io/Roguelike/)
-
-
-### Contact
+- [Roguelike](https://catskald.github.io/Roguelike/)
